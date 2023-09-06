@@ -4,4 +4,4 @@ Este es un proyecto de práctica simple para familiarizarte con los principios b
 
 ## Captura de Pantalla
 
-![Captura de Pantalla](public\screen.png)
+![Captura de Pantalla](https://github.com/SJAR03/profile/blob/main/public/screen.png)
