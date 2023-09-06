@@ -34,5 +34,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "esLintConfig": {
+    "extends": "./node_modules/standard/eslintrc.json"
+  },
+  "devDependencies": {
+    "standard": "^17.1.0"
   }
 }
