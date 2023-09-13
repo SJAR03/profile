@@ -1,7 +1,7 @@
-# Proyecto de Práctica de React
+# React Practice Project
 
-Este es un proyecto de práctica simple para familiarizarte con los principios básicos de React. En este proyecto, creé una carta de perfil simple, con una imagen, texto y lista de habilidades.
+This is a simple practice project to familiarize yourself with the basic principles of React. In this project, I have created a simple profile card with an image, text, and a list of skills.
 
-## Captura de Pantalla
+## Screenshot
 
-![Captura de Pantalla](https://github.com/SJAR03/profile/blob/main/public/screen.png)
+![Screenshot](https://github.com/SJAR03/profile/blob/main/public/screen.png)
